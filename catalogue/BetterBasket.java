@@ -17,11 +17,8 @@ public class BetterBasket extends Basket implements Serializable
   // You need to add code here
   
   //overriding the add method
-  @Override
-  public boolean add(Product pr)
-  {
-	  return super.add(pr);
-  }
+ 
+ 
   //committing stuff
   
 }
